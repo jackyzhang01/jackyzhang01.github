@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to  jackyzhang's home
 
-You can use the [editor on GitHub](https://github.com/jackyzhang01/jackyzhang01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+初来炸道，希望各位不要介意
 
 ### Markdown
 
